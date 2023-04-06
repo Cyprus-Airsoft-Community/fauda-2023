@@ -1,5 +1,5 @@
 # Operation Fauda
-Minigame for a MilSim mission for a Cypurs Airsoft Community Event
+Minigame for a MilSim mission for a Cypurs Airsoft Community Event.
 
 
 Python 3 Required.
