@@ -6,18 +6,23 @@
 ### To run the script:
 
 1) Open cmd and cd to your current dir.
+
     cd /path
 
-2) Create a virtual environment:
+3) Create a virtual environment:
+
     python -m venv venv
     
-3) Activate it:
+5) Activate it:
+
     venv\Scripts\activate
     
-4) Install the required libraries:
+6) Install the required libraries:
+
     python -m pip install -r requirements.txt
     
-5) Run the script:
+7) Run the script:
+
     py fauda.py
     
 ### To package the script to an .exe:
