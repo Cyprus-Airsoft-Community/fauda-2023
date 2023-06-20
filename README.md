@@ -6,6 +6,7 @@
 ### To run the script:
 
     1) Open cmd and cd to your current dir.
+cd /path
 
     2) Create a virtual environment:
 python -m venv venv
