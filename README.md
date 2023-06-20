@@ -20,5 +20,5 @@ python -m pip install -r requirements.txt
     5) Run the script:
 py fauda.py
     
-    To package the script to an .exe:
+### To package the script to an .exe:
 pyinstaller --name FAUDA --icon CAA_LOGO.ico caa.py --paths venv\Lib\site-packages --onefile
